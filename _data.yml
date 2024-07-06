@@ -1,0 +1,12 @@
+lang: en
+home:
+  welcome: 'Hey it''s me, Damian C.'
+menu_links: []
+metas:
+  site: heydamianc
+  description: The personal website and blog of Damian Carrillo
+  title: =title
+  image: =image
+  twitter: '@username'
+  lang: en
+  generator: false
